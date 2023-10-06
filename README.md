@@ -1,0 +1,1 @@
+# RulesOfJava6005
